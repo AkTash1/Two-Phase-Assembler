@@ -1,17 +1,12 @@
 						TITLE : Claims 				 
 						
-						NAME  	        : ASHUTOSH KANOJIA
-						ROLL NUMBER     : 2301CS10
-						Declaration of Authorship:
-						This txt file is part of the assignment of the course DLCO at 
-						Department of Computer Science and Engineering, IIT Patna .  
+						NAME  	        : ASHUTOSH KANOJIA						
 
-FILES SUBMITTED  :
-
-The project submission includes the following files: asm.cpp, emu.cpp, claims.txt, and all associated test files, which comprise both the provided test cases and custom ones, along with bubblesort. Each file is labeled with the name, roll number, and a declaration of ownership at the beginning.
 
  Inside this folder, you will find:
 
+asm.cpp - Assembler Code
+emp.cpp - Emulator Code
 For testcase1.asm: Three output files: testcase1.log, testcase1.lst, and testcase1.o.
 For testcase2.asm: One output file: testcase2.log.
 For testcase3.asm: Three output files: testcase3.log, testcase3.lst, and testcase3.o.
